@@ -1,0 +1,242 @@
+[
+  {
+    "id": "ID-0001",
+    "title": "Declaração Anual de IRS",
+    "status": "done",
+    "label": "irs",
+    "priority": "medium",
+    "date": "2025-01-24"
+  },
+  {
+    "id": "ID-0002",
+    "title": "Relatório Periódico de IVA",
+    "status": "done",
+    "label": "iva",
+    "priority": "medium",
+    "date": "2025-01-25"
+  },
+  {
+    "id": "ID-0003",
+    "title": "Declaração Anual de IRC",
+    "status": "done",
+    "label": "irc",
+    "priority": "medium",
+    "date": "2025-01-26"
+  },
+  {
+    "id": "ID-0004",
+    "title": "Auditoria Financeira Anual",
+    "status": "canceled",
+    "label": "irc",
+    "priority": "medium",
+    "date": "2025-01-27"
+  },
+  {
+    "id": "ID-0005",
+    "title": "Relatório de Auditoria Interna",
+    "status": "todo",
+    "label": "irs",
+    "priority": "high",
+    "date": "2025-01-28"
+  },
+  {
+    "id": "ID-0006",
+    "title": "Declaração de Retenção na Fonte",
+    "status": "in_progress",
+    "label": "irc",
+    "priority": "medium",
+    "date": "2025-02-01"
+  },
+  {
+    "id": "ID-0007",
+    "title": "Relatório de Contribuições Sociais",
+    "status": "done",
+    "label": "irs",
+    "priority": "medium",
+    "date": "2025-02-02"
+  },
+  {
+    "id": "ID-0008",
+    "title": "Declaração de Imposto sobre Bens Imóveis",
+    "status": "canceled",
+    "label": "irs",
+    "priority": "high",
+    "date": "2025-02-03"
+  },
+  {
+    "id": "ID-0009",
+    "title": "Declaração de Imposto sobre Veículos",
+    "status": "todo",
+    "label": "irc",
+    "priority": "low",
+    "date": "2025-02-04"
+  },
+  {
+    "id": "ID-0010",
+    "title": "Declaração de Imposto sobre Sucessões",
+    "status": "in_progress",
+    "label": "iva",
+    "priority": "low",
+    "date": "2025-02-05"
+  },
+  {
+    "id": "ID-0031",
+    "title": "Declaração Anual de IRS",
+    "status": "todo",
+    "label": "irs",
+    "priority": "medium",
+    "date": "2025-02-06"
+  },
+  {
+    "id": "ID-0032",
+    "title": "Relatório Periódico de IVA",
+    "status": "in_progress",
+    "label": "iva",
+    "priority": "medium",
+    "date": "2025-02-07"
+  },
+  {
+    "id": "ID-0033",
+    "title": "Declaração Anual de IRC",
+    "status": "done",
+    "label": "irc",
+    "priority": "medium",
+    "date": "2025-02-08"
+  },
+  {
+    "id": "ID-0034",
+    "title": "Auditoria Financeira Anual",
+    "status": "canceled",
+    "label": "iva",
+    "priority": "medium",
+    "date": "2025-02-09"
+  },
+  {
+    "id": "ID-0035",
+    "title": "Relatório de Auditoria Interna",
+    "status": "todo",
+    "label": "irc",
+    "priority": "medium",
+    "date": "2025-02-10"
+  },
+  {
+    "id": "ID-0036",
+    "title": "Declaração de Retenção na Fonte",
+    "status": "in_progress",
+    "label": "irs",
+    "priority": "medium",
+    "date": "2025-02-11"
+  },
+  {
+    "id": "ID-0037",
+    "title": "Relatório de Contribuições Sociais",
+    "status": "done",
+    "label": "iva",
+    "priority": "medium",
+    "date": "2025-02-12"
+  },
+  {
+    "id": "ID-0038",
+    "title": "Declaração de Imposto sobre Bens Imóveis",
+    "status": "canceled",
+    "label": "irc",
+    "priority": "medium",
+    "date": "2025-02-13"
+  },
+  {
+    "id": "ID-0039",
+    "title": "Declaração de Imposto sobre Veículos",
+    "status": "todo",
+    "label": "iva",
+    "priority": "medium",
+    "date": "2025-02-14"
+  },
+  {
+    "id": "ID-0040",
+    "title": "Declaração de Imposto sobre Sucessões",
+    "status": "in_progress",
+    "label": "irs",
+    "priority": "medium",
+    "date": "2025-03-12"
+  },
+  {
+    "id": "ID-0041",
+    "title": "Declaração de Imposto sobre Doações",
+    "status": "done",
+    "label": "irc",
+    "priority": "medium",
+    "date": "2025-03-13"
+  },
+  {
+    "id": "ID-0042",
+    "title": "Relatório de Contribuições Patronais",
+    "status": "todo",
+    "label": "iva",
+    "priority": "medium",
+    "date": "2025-03-14"
+  },
+  {
+    "id": "ID-0043",
+    "title": "Relatório de Despesas Médicas Dedutíveis",
+    "status": "in_progress",
+    "label": "irs",
+    "priority": "medium",
+    "date": "2025-03-15"
+  },
+  {
+    "id": "ID-0044",
+    "title": "Declaração de Despesas de Educação Dedutíveis",
+    "status": "canceled",
+    "label": "irc",
+    "priority": "medium",
+    "date": "2025-03-16"
+  },
+  {
+    "id": "ID-0045",
+    "title": "Relatório de Despesas com Habitação Dedutíveis",
+    "status": "done",
+    "label": "iva",
+    "priority": "medium",
+    "date": "2025-03-17"
+  },
+  {
+    "id": "ID-0046",
+    "title": "Relatório de Rendimentos de Capitais",
+    "status": "todo",
+    "label": "irs",
+    "priority": "medium",
+    "date": "2025-03-18"
+  },
+  {
+    "id": "ID-0047",
+    "title": "Relatório de Rendimentos Prediais",
+    "status": "in_progress",
+    "label": "irc",
+    "priority": "medium",
+    "date": "2025-03-19"
+  },
+  {
+    "id": "ID-0048",
+    "title": "Declaração de Rendimentos Profissionais",
+    "status": "canceled",
+    "label": "iva",
+    "priority": "medium",
+    "date": "2025-03-20"
+  },
+  {
+    "id": "ID-0049",
+    "title": "Relatório de Rendimentos de Pensões",
+    "status": "done",
+    "label": "irs",
+    "priority": "medium",
+    "date": "2025-03-21"
+  },
+  {
+    "id": "ID-0050",
+    "title": "Declaração de Rendimentos de Trabalho Dependente",
+    "status": "todo",
+    "label": "irc",
+    "priority": "medium",
+    "date": "2025-03-22"
+  }
+]
